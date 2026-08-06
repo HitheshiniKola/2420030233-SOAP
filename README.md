@@ -1,38 +1,72 @@
-##🍱 AI-Powered Food Donation Management System
-##Overview
-An AI-powered food donation platform built using Spring Boot Microservices and React. The system connects food donors, NGOs, volunteers, and beneficiaries while using AI to recommend donation centers, estimate food freshness, and optimize food distribution.
+# 🍱 AI-Powered Food Donation Management System
 
-##Problem Statement
-Every day, large quantities of edible food are wasted while many people continue to suffer from hunger. Existing donation processes are largely manual, slow, and inefficient.
+## 📖 Overview
 
-##Proposed Solution
-Develop an AI-powered agentic platform that automates food donation management using Service-Oriented Architecture (SOA) and Microservices.
+The AI-Powered Food Donation Management System is a Service-Oriented Architecture (SOA) based platform developed using Spring Boot Microservices and React. The system connects food donors, NGOs, volunteers, and beneficiaries while leveraging AI to recommend nearby donation centers, estimate food freshness, and optimize food distribution to minimize food wastage.
 
-##Objectives
+---
+
+## ❗ Problem Statement
+
+Every day, large quantities of edible food are wasted while many people continue to suffer from hunger. Existing food donation processes are largely manual, time-consuming, and inefficient, resulting in delays and unnecessary food loss.
+
+---
+
+## 💡 Proposed Solution
+
+Develop an AI-powered food donation platform using Service-Oriented Architecture (SOA) and Microservices that automates food donation management, improves coordination among stakeholders, predicts food freshness, and ensures efficient food distribution.
+
+---
+
+## 🎯 Objectives
+
 - Reduce food wastage
-- Connect donors with NGOs
-- Automate donation workflow
+- Connect food donors with NGOs and volunteers
+- Automate the food donation workflow
 - Improve food distribution using AI
-- Generate analytics and reports
-##SDG Goals
-- SDG 2 – Zero Hunger
-- SDG 12 – Responsible Consumption and Production
-- SDG 11 – Sustainable Cities and Communities
-##Planned Tech Stack
-**Backend**
+- Generate analytics and reports for better decision-making
+
+---
+
+## 🌍 Sustainable Development Goals (SDGs)
+
+- **SDG 2** – Zero Hunger
+- **SDG 11** – Sustainable Cities and Communities
+- **SDG 12** – Responsible Consumption and Production
+
+---
+
+## 🛠️ Planned Tech Stack
+
+### Backend
 - Java
 - Spring Boot
 - Spring Cloud
 - Spring Security
-- JWT
+- JWT Authentication
 - MySQL
-**Frontend**
-- React
+
+### Frontend
+- React.js
 - Tailwind CSS
-##DevOps
+
+### DevOps & Tools
 - Docker
 - GitHub Actions
-##Team Members
+- Git
+- Maven
+
+---
+
+## 👥 Team Members
+
 - Anahita Bhalme
 - Hitheshini Kola
 - Mihika Chowdary
+
+---
+
+## 🚀 Project Status
+
+🚧 Currently under development.
+
